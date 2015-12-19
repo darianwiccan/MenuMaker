@@ -1,7 +1,4 @@
 /**
- * @author darianwiccan
- * 
- * Database classes used by other classes.
- *
+ * Database Classes package.
  */
 package database;

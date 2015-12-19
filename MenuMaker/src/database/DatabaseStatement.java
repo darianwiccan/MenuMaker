@@ -30,8 +30,7 @@ public class DatabaseStatement {
 	    } finally {
 
 	    	// This will run whether we throw an exception or not
-	    	stmt.close();
-//	        if (stmt != null) { stmt.close(); }
+	        if (stmt != null) { stmt.close(); }
 	    }
 	}
 }

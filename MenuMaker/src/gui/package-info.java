@@ -1,7 +1,4 @@
 /**
- * @author darianwiccan
- * 
- * GUI classes.
- *
+ * GUI Classes Package.
  */
 package gui;
